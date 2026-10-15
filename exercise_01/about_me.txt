@@ -1,0 +1,6 @@
+Name: Adam Khan
+Course: Artificial Intelligence 2
+University: Hochschule Weihenstephan-Triesdorf
+
+I am learning Git, GitHub, Python, and Artificial Intelligence.
+My goal is to improve my programming and AI skills.
