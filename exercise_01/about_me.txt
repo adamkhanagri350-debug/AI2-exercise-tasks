@@ -4,3 +4,4 @@ University: Hochschule Weihenstephan-Triesdorf
 
 I am learning Git, GitHub, Python, and Artificial Intelligence.
 My goal is to improve my programming and AI skills.
+I am learning how to track changes using Git.
